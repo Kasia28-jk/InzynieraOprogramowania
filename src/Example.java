@@ -4,5 +4,8 @@ public class Example
     {
         System.out.println("Umiesc mnie w githubie");
         System.out.println("Umiesc mnie w githubie v2");
+
+        System.out.println("Umiesc mnie w githubie");
+        System.out.println("Umiesc mnie w githubie v2");
     }
 }
